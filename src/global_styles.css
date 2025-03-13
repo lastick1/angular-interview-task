@@ -1,0 +1,5 @@
+/* Add application styles & imports to this file! */
+form {
+  display: flex;
+  flex-direction: column;
+}
